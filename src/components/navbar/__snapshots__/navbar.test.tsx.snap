@@ -1,0 +1,79 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshots should render correctly the navbar 1`] = `
+<div
+  className="sc-fFSPTT hnCUeK"
+>
+  <div
+    className="sc-iemWCZ iXFNtQ"
+  >
+    <p
+      className="sc-bdnxRM kPOorQ sc-dlMDgC jJMtGt"
+      size="medium"
+    >
+      MOVIES
+    </p>
+  </div>
+  <div
+    className="sc-dIvrsQ ewjPVJ"
+  >
+    <div
+      className="sc-bkbkJK bWSeVi"
+    >
+      <a
+        aria-current="page"
+        className="sc-hHEiqL iNSFzE active"
+        href="/"
+        onClick={[Function]}
+        style={
+          Object {
+            "color": "#CE1E37",
+          }
+        }
+      >
+        PREMIER
+      </a>
+      <a
+        aria-current={null}
+        className="sc-hHEiqL iNSFzE"
+        href="/films"
+        onClick={[Function]}
+      >
+        FILMS
+      </a>
+      <a
+        aria-current={null}
+        className="sc-hHEiqL iNSFzE"
+        href="/tv-series"
+        onClick={[Function]}
+      >
+        TV SERIES
+      </a>
+      <a
+        aria-current={null}
+        className="sc-hHEiqL iNSFzE"
+        href="/cartoons"
+        onClick={[Function]}
+      >
+        CARTOONS
+      </a>
+      <a
+        aria-current={null}
+        className="sc-hHEiqL iNSFzE"
+        href="/show"
+        onClick={[Function]}
+      >
+        SHOW
+      </a>
+      <a
+        aria-current={null}
+        className="sc-hHEiqL iNSFzE"
+        href="/sign-in"
+        onClick={[Function]}
+      >
+        LOGIN
+      </a>
+    </div>
+  </div>
+</div>
+`;

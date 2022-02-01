@@ -1,0 +1,54 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshots should render correctly the slider 1`] = `
+<div
+  className="sc-jrsJWt jcyKdB"
+>
+  <div
+    className="sc-gtsrHT vDuLb"
+    data-testid="0-slide"
+    style={
+      Object {
+        "marginLeft": "-0%",
+      }
+    }
+  >
+    <div
+      className="sc-dlnjwi bDByMF"
+      data-testid="caption"
+    >
+      <p
+        className="sc-bdnxRM gEfyOQ sc-fujyAs bHOnkb"
+        size="xl"
+      >
+        title
+      </p>
+      <p
+        className="sc-bdnxRM cbGgDe sc-pNWdM NHydp"
+        size="medium"
+      >
+        description
+      </p>
+    </div>
+    <div
+      className="sc-eCApnc daLoyN"
+    >
+      <img
+        className="sc-hKFxyN hgdXKu"
+        data-testid="img"
+        src="http://image.tmdb.org/t/p/original/iLLDiO4dbUfFEnRug8DuvFEl1NB.jpg"
+      />
+    </div>
+  </div>
+  <div
+    className="sc-jSFjdj guJqDr"
+    data-testid="dots"
+  >
+    <div
+      className="sc-gKAaRy etQlyz"
+      data-testid="dot-0"
+      onClick={[Function]}
+    />
+  </div>
+</div>
+`;
